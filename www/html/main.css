@@ -1,0 +1,67 @@
+.clearfix {
+  clear: both !important;
+  height: 50px;
+}
+
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.navbar {
+  margin-bottom: 50px;
+  font-size: 30px;
+}
+
+#slide1 {
+  min-height: 790px;
+
+}
+
+.carousel p,
+.carousel h3 {
+   color: white !important;
+}
+
+.carousel{
+  height: 700px;
+  width: 1400px;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
+.carousel-indicators li,
+carousel-indicators li.active {
+   margin-left: 5px;
+}
+
+#slide2 {
+  min-height: 890px;
+}
+
+#slide1 h1 {
+  min-height: 500px;
+  font-size: 70px;
+  padding-top: 250px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-style: italic;
+  color: white;
+
+}
+
+#slide2 h3 {
+  font-size: 30px;
+  padding-top: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-style: normal;
+  font:
+}
+
+.alert-default {
+	   background: #e2e3e5;
+	      border-color: #d6d8db;
+		     color: #383d41;
+}
